@@ -1,7 +1,7 @@
 # Card Matching Game
-This is a simple card matching game. The game is built QT and C++ by [Soner Kuyar](www.github.com/sonerkuyar) and [Sezer Çot](www.github.com/sezercot).
-Game is designed for 2 players. Players take turns to open 2 cards. If the cards are matched, the player gets 1 point. If not, the cards are closed and the turn is passed to the other player. The game continues until all the cards are matched. The player with the most points wins the game.
-This is the Screen of the game:
+This is a simple card matching game. The game is built QT and C++ by [Soner Kuyar](www.github.com/sonerkuyar) and [Sezer Çot](www.github.com/sezercot). \n
+Game is designed for 2 players. Players take turns to open 2 cards. If the cards are matched, the player gets 1 point. If not, the cards are closed and the turn is passed to the other player. The game continues until all the cards are matched. The player with the most points wins the game. \n
+This is the Screen of the game: \n
 ![Game Screen](GameScreen.png)
 
 ## Requirements
